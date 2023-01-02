@@ -62,7 +62,8 @@ class MethodChannelImageCropper extends ImageCropperPlatform {
       CropAspectRatioPreset.square,
       CropAspectRatioPreset.ratio3x2,
       CropAspectRatioPreset.ratio4x3,
-      CropAspectRatioPreset.ratio16x9
+      CropAspectRatioPreset.ratio16x9,
+      CropAspectRatioPreset.ratio11x8
     ],
     CropStyle cropStyle = CropStyle.rectangle,
     ImageCompressFormat compressFormat = ImageCompressFormat.jpg,
