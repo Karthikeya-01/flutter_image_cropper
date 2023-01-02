@@ -1,4 +1,4 @@
-name: custom_cropper
+name: cropper_custom
 description: A Flutter package for cropping
 publish_to: 'none'
 version: 1.0.0+1
